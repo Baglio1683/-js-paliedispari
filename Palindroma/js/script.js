@@ -24,6 +24,7 @@ function isPal(word){
                 bool = true
             }else{
                 bool = false 
+                break
             }
     }
 
